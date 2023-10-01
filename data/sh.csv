@@ -1,7 +1,7 @@
 Subject,Progress,Confidence
-Biology HL,0,0.0
-Mathematics AA SL,0,0.0
-English A: Literature SL,0,0.0
-French B HL,0,0.0
-Geography HL,0,0.0
-Philo SL,0,0.0
+Biology HL,2,"[80, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+Mathematics AA SL,2,"[0, 0, 0, 0, 0]"
+English A: Literature SL,2,"[0, 0, 0]"
+French B HL,1,"[0, 0, 0, 0, 0]"
+Geography HL,3,"[0, 0, 0, 0, 0, 0]"
+Philo SL,1,"[0, 0]"
